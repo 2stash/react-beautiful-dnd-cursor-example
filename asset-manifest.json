@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-beautiful-dnd-cursor-example/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-beautiful-dnd-cursor-example/static/js/main.6dd8f7c5.chunk.js",
+    "main.js.map": "/react-beautiful-dnd-cursor-example/static/js/main.6dd8f7c5.chunk.js.map",
+    "runtime-main.js": "/react-beautiful-dnd-cursor-example/static/js/runtime-main.9d7fe227.js",
+    "runtime-main.js.map": "/react-beautiful-dnd-cursor-example/static/js/runtime-main.9d7fe227.js.map",
+    "static/js/2.29211c44.chunk.js": "/react-beautiful-dnd-cursor-example/static/js/2.29211c44.chunk.js",
+    "static/js/2.29211c44.chunk.js.map": "/react-beautiful-dnd-cursor-example/static/js/2.29211c44.chunk.js.map",
+    "index.html": "/react-beautiful-dnd-cursor-example/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-beautiful-dnd-cursor-example/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.29211c44.chunk.js.LICENSE.txt": "/react-beautiful-dnd-cursor-example/static/js/2.29211c44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d7fe227.js",
+    "static/js/2.29211c44.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6dd8f7c5.chunk.js"
+  ]
+}
